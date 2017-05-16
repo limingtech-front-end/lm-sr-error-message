@@ -1,0 +1,19 @@
+{
+  "name": "lm-sr-error-message",
+  "version": "1.0.0",
+  "description": "error message config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/limingtech-front-end/lm-sr-error-message.git"
+  },
+  "author": "littlstonee <littlstonee@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/limingtech-front-end/lm-sr-error-message/issues"
+  },
+  "homepage": "https://github.com/limingtech-front-end/lm-sr-error-message#readme"
+}
